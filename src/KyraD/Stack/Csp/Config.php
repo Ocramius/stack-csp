@@ -7,11 +7,8 @@ use Symfony\Component\HttpFoundation\Request;
  * Manages CSP policy arrays
  *
  * @author Kyra D. <kyra@existing.me>
- * @copyright 2013 Kyra D.
  * @license MIT
  * @link https://github.com/KyraD/stack-csp
- * @package KyraD\Stack\Csp
- * @version 0.1.0
  */
 class Config
 {

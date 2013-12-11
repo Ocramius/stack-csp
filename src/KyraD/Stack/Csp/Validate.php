@@ -5,11 +5,8 @@ namespace KyraD\Stack\Csp;
  * Validates CSP directives and values
  *
  * @author Kyra D. <kyra@existing.me>
- * @copyright 2013 Kyra D.
  * @license MIT
  * @link https://github.com/KyraD/stack-csp
- * @package KyraD\Stack\Csp
- * @version 0.1.0
  * @todo Update to CSP 1.1 when no longer a draft
  */
 class Validate

@@ -9,11 +9,8 @@ use Symfony\Component\HttpKernel\HttpKernelInterface;
  * A Stack middleware to generate Content Security Policy (CSP) 1.0 HTTP headers.
  *
  * @author Kyra D. <kyra@existing.me>
- * @copyright 2013 Kyra D.
  * @license MIT
  * @link https://github.com/KyraD/stack-csp
- * @package KyraD\Stack\Csp
- * @version 0.1.0
  */
 class Csp implements HttpKernelInterface
 {
