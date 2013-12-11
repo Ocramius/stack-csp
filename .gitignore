@@ -1,0 +1,7 @@
+.idea
+composer.lock
+comppser.phar
+vendor
+README.md
+phpunit.xml.dist
+travis.yml
