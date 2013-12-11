@@ -10,14 +10,17 @@
         }
     ],
     "require": {
-        "silex/silex": "v1.1.2"
+        "silex/silex": "v1.1.2",
+        "php":         ">=5.4"
     },
     "require-dev": {
-        "phpunit/phpunit": ">=3.7.24"
+        "phpunit/phpunit":           "~3.7",
+        "squizlabs/php_codesniffer": "1.4.*",
+        "satooshi/php-coveralls":    "~0.6"
     },
     "autoload": {
         "psr-0": {
-            "KyraD\\Silex": "src"
+            "KyraD\\Stack\\": "src"
         }
     }
 }
